@@ -1,7 +1,7 @@
 ###################################################
 #
 # project: the scraper for https://hotcopper.com.au
-# author: Liang S
+# author: M.Y
 # date: 09/20/2019
 #
 ###################################################
